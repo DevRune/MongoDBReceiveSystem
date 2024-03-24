@@ -1,0 +1,13 @@
+name: ThunderRewards
+version: '${project.version}'
+main: com.rune.thunderrewards.ThunderRewards
+authors: [ _GamingSkill_ ]
+commands:
+  addreward:
+    description: Voeg een reward toe
+  addrewardname:
+    description: Voeg een reward toe
+    aliases:
+      - addrewardn
+  rewards:
+    description: Bekijk de rewards van een speler.
