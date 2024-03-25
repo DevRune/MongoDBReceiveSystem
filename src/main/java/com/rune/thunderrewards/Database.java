@@ -21,7 +21,7 @@ import java.util.logging.Level;
 public class Database {
 
     //Database Details
-    String password = "uoL5g2wL6xUIIL9r";
+    String password = "";
     String username = "databaseuser";
     String connectionString = "mongodb+srv://databaseuser:uoL5g2wL6xUIIL9r@cluster0.n1sgocv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
